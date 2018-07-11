@@ -178,3 +178,5 @@ ps+geom_smooth(color="black", method="loess", size=2)+geom_point(color="red", si
 
 ####### Plotting
 sc3_plot_silhouette.SingleCellExperiment(sce, 2)
+
+```
